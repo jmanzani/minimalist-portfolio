@@ -1,6 +1,6 @@
 # Minimalist portfolio
 
-Este es mi proyecto de portfolio minimalista inspirado en el de Midudev.
+Este es mi proyecto de portfolio minimalista inspirado en el de Midudev (https://github.com/midudev) https://github.com/midudev/minimalist-portfolio-json.
 
 ## Descripción
 
