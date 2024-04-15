@@ -19,7 +19,8 @@ Este proyecto es un portfolio web diseñado para mostrar mis habilidades, proyec
 ## Instalación y Uso
 
 1. Clona este repositorio: `git clone https://github.com/jmanzani/minimalist-portfolio.git`
-2. Haz `pnpm run dev`
+2. Ejecuta `pnpm install` para instalar las dependencias
+2. Haz `pnpm run dev` para ejecutarlo en el navegador.
 
 ## Tecnologías utilizadas
 
