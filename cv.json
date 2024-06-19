@@ -38,6 +38,16 @@
       "highlights": [
         "Primer Trabajo"
       ]
+    },
+    {
+      "name": "COFORGE",
+      "position": "Associate Software Engineer",
+      "url": "https://www.coforge.com",
+      "startDate": "2024-04-17",
+      "endDate": null,
+      "summary": "Proyecto de aplicación Windows utilizando WinUI 3, C#, Entity Framework y SQL para el cliente y mantenimiento de aplicacion Web ASP.NET. Además se atienden soportes de los clientes.",
+      "highlights": [
+      ]
     }
   ],
   "volunteer": [],
